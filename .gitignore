@@ -1,1 +1,4 @@
 venv
+demo_project.egg-info
+build
+dist
